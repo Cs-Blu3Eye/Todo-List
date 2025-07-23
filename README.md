@@ -1,13 +1,12 @@
 ### 📄 Contoh `README.md`
 
-````markdown
+
 # ✅ Laravel To-Do List App
 
 Sebuah aplikasi **To-Do List** sederhana yang dibangun menggunakan **Laravel**, **Blade Template**, dan **TailwindCSS**. Cocok untuk belajar dasar-dasar Laravel MVC, manajemen tugas, dan layout responsif modern.
 
 ![App Screenshot](public/img/img1.png)
 
----
 
 ## ✨ Fitur Utama
 
